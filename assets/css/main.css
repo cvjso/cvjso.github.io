@@ -2096,11 +2096,11 @@ input, select, textarea {
 		position: relative;
 		padding: 4em 0 2em 0;
 		background-image: url("images/header.svg");
-		background-image: url("images/overlay.png"), url("images/header.svg"), -moz-linear-gradient(75deg, #ffa500 15%, #ffb732 55%);
-		background-image: url("images/overlay.png"), url("images/header.svg"), -webkit-linear-gradient(75deg, #ffa500 15%, #ffb732 55%);
-		background-image: url("images/overlay.png"), url("images/header.svg"), -ms-linear-gradient(75deg, #ffa500 15%, #ffb732 55%);
-		background-image: url("images/overlay.png"), url("images/header.svg"), linear-gradient(75deg, #ffa500 15%, #ffb732 55%);
-		background-color: #f7db3c;
+		background-image: url("images/overlay.png"), url("images/header.svg"), -moz-linear-gradient(75deg, #ff7c01ec 15%, #e67913f3 55%);
+		background-image: url("images/overlay.png"), url("images/header.svg"), -webkit-linear-gradient(75deg, #ff7c01ec 15%, #e67913f3 55%);
+		background-image: url("images/overlay.png"), url("images/header.svg"), -ms-linear-gradient(75deg, #ff7c01ec 15%, #e67913f3 55%);
+		background-image: url("images/overlay.png"), url("images/header.svg"), linear-gradient(75deg, #ff7c01ec 15%, #e67913f3 55%);
+		background-color: #e67e1d;
 		background-size: 100% 620%;
 		background-size: 128px 128px, 100% 620%, auto;
 		background-repeat: repeat, no-repeat, no-repeat;
@@ -2241,7 +2241,7 @@ input, select, textarea {
 			}
 
 			.dropotron li.active > a, .dropotron li.active > span {
-				color: #f35858;
+				color: #e69705fb;
 			}
 
 		.dropotron.level-0 {
